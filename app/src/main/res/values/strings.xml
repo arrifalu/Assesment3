@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MENUMIX</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="hapus">Yakin ingin menghapus menu ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="tambah_menu">Tambah Menu</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="kategori_menu">Kategori Menu</string>
+    <string name="switch_layout">Ganti Layout</string>
+    <string name="Profile">Akun</string>
+    </resources>
